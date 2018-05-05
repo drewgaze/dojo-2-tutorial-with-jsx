@@ -1,0 +1,10 @@
+{
+  "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"auto-close-tag.activationOnLanguage": [
+			"html",
+			"xml",
+			"php",
+			"javascript"
+	]
+}
